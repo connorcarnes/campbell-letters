@@ -1,9 +1,8 @@
 # campbell-letters
 
 - [campbell-letters](#campbell-letters)
-  - [About](#about)
-    - [The Letters](#the-letters)
-    - [This Page](#this-page)
+  - [About The Letters](#about-the-letters)
+  - [About This Page](#about-this-page)
   - [1832 - Letter from Thomas Campbell to John Campbell](#1832---letter-from-thomas-campbell-to-john-campbell)
   - [1833 - Letter from James Campbell to John Campbell](#1833---letter-from-james-campbell-to-john-campbell)
   - [1833 - Letter from James Campbell to John Campbell](#1833---letter-from-james-campbell-to-john-campbell-1)
@@ -55,9 +54,7 @@
   - [1863 - Letter from James Campbell to Martha Campbell](#1863---letter-from-james-campbell-to-martha-campbell-2)
   - [1863 - John Campbell family farm record book](#1863---john-campbell-family-farm-record-book)
 
-## About
-
-### The Letters
+## About The Letters
 
 These letters are part of a collection titled, "John Campbell Personal Papers, 1820-1906 (MS 329)" from Rice University. A synopsis of the collection is below:
 
@@ -65,7 +62,7 @@ These letters are part of a collection titled, "John Campbell Personal Papers, 1
 
 **[Link to entire collection on Rice Univerity's Site](https://scholarship.rice.edu/handle/1911/75457)**
 
-### This Page
+## About This Page
 
 This page is meant to make it easier to read the letters chronologically.
 
