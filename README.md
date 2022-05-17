@@ -1,4 +1,9 @@
 # campbell-letters
+
+Correspondence related to John Campbell and family. Campbell immigrated from Ireland to Texas ca. 1820 and encouraged his family to join him.
+
+[Source](https://scholarship.rice.edu/handle/1911/21706)
+
 - [campbell-letters](#campbell-letters)
   - [1832 - Letter from Thomas Campbell to John Campbell](#1832---letter-from-thomas-campbell-to-john-campbell)
   - [1833 - Letter from James Campbell to John Campbell](#1833---letter-from-james-campbell-to-john-campbell)
@@ -50,10 +55,6 @@
   - [1863 - Letter from James Campbell to Martha Campbell](#1863---letter-from-james-campbell-to-martha-campbell-1)
   - [1863 - Letter from James Campbell to Martha Campbell](#1863---letter-from-james-campbell-to-martha-campbell-2)
   - [1863 - John Campbell family farm record book](#1863---john-campbell-family-farm-record-book)
-
-Correspondence related to John Campbell and family. Campbell immigrated from Ireland to Texas ca. 1820 and encouraged his family to join him.
-
-[Source](https://scholarship.rice.edu/handle/1911/21706)
 
 ## [1832 - Letter from Thomas Campbell to John Campbell](https://hdl.handle.net/1911/75456)
 
