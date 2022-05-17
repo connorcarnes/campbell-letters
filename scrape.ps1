@@ -1,7 +1,13 @@
-﻿# URL was built by going to https://scholarship.rice.edu/handle/1911/21706/browse
-# And inspecting the network tab of browser developer tools
-$Url = 'https://scholarship.rice.edu/handle/1911/21706/browse?resetOffset=true&type=dateissued&sort_by=2&order=ASC&rpp=99&update='
+﻿# https://stackoverflow.com/questions/47952689/powershell-invoke-webrequest-and-character-encoding
+function ConvertTo-Utf8([string] $String) {
+    [System.Text.Encoding]::UTF8.GetString(
+        [System.Text.Encoding]::GetEncoding(28591).GetBytes($String)
+    )
+  }
 
+# URL was built by going to https://scholarship.rice.edu/handle/1911/21706/browse
+# And inspecting the network tab of browser developer tools
+$Url     = 'https://scholarship.rice.edu/handle/1911/21706/browse?resetOffset=true&type=dateissued&sort_by=2&order=ASC&rpp=99&update='
 $Request = Invoke-WebRequest -Uri $Url
 $filter  = 'type=|class=|role=|79050|12341|21706'
 $Links   = $Request.links |
@@ -27,7 +33,6 @@ foreach ($Link in $Links) {
     $null = $Output.Add($Temp)
 }
 
-# Copy and paste $Page into readme
 $Page = @"
 # campbell-letters
 
@@ -37,12 +42,24 @@ This page is simply the text documents from https://scholarship.rice.edu/handle/
 
 "@
 
-foreach ($letter in $Output) {
+foreach ($letter in $output) {
+    $Content = ConvertTo-Utf8 $letter.Content
+
+    $FirstLine = ($Content -split "`n")[0]
+
+    $null  = $FirstLine -match '(?<Title>".*")'
+    $Title = ($matches.Title -replace '"', '').Trim().TrimEnd('.')
+
+    $null  = $FirstLine -match '(?<Date>\(.*\))'
+    $Date  = ($matches.Date -replace '\(','') -replace '\)',''
+
+    $Link  = ($firstline -split ': ')[1].Trim().TrimEnd('.')
+
     $Page += @"
-## $($letter.Title)
+## [$Title - $Date]($Link)
 
 ``````
-$($letter.Content)
+$Content
 ``````
 
 "@
