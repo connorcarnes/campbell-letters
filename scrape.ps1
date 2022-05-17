@@ -40,27 +40,69 @@ Correspondence related to John Campbell and family. Campbell immigrated from Ire
 
 [Source](https://scholarship.rice.edu/handle/1911/21706)
 
-"@
+## Table of Contents
 
+!TOCPLACEHOLDER!
+
+"@
+$TableOfContents = [System.Collections.Arraylist]::new()
 foreach ($letter in $output) {
+    # Remove special characters
     $Content = ConvertTo-Utf8 $letter.Content
+    # Split by newlines
+    $SplitContent = ($Content -split "`n").Trim()
+    # Parse the first line for title, date and link
+    $FirstLine = $SplitContent[0]
+    $null      = $FirstLine -match '(?<Title>".*")'
+    $Title     = ($matches.Title -replace '"', '').Trim().TrimEnd('.')
+    $null      = $FirstLine -match '(?<Date>\(.*\))'
+    $Date      = ($matches.Date -replace '\(','') -replace '\)',''
 
-    $FirstLine = ($Content -split "`n")[0]
+    if ($letter.title -match 'John Campbell family farm record book') {
+        $Link = $null
+    }
+    else {
+        $Link = ($firstline -split ': ')[1].Trim().TrimEnd('.')
+    }
 
-    $null  = $FirstLine -match '(?<Title>".*")'
-    $Title = ($matches.Title -replace '"', '').Trim().TrimEnd('.')
+    # Remove first line from body of letter
+    $Body = $SplitContent[1..$SplitContent.Length] -join "`n"
 
-    $null  = $FirstLine -match '(?<Date>\(.*\))'
-    $Date  = ($matches.Date -replace '\(','') -replace '\)',''
+    if (-not $Title) {
+        $Title = "!NULL!"
+    }
+    if (-not $Date) {
+        $Date = "!NULL!"
+    }
+    if (-not $Link) {
+        $Link = "!NULL!"
+    }
+    if ($letter.title -match 'John Campbell family farm record book') {
+        $null = $TableOfContents.Add("1863 - John Campbell family farm record book")
+        $Page += @"
 
-    $Link  = ($firstline -split ': ')[1].Trim().TrimEnd('.')
+## [1863 - John Campbell family farm record book](https://scholarship.rice.edu/handle/1911/27481)
 
-    $Page += @"
-## [$Title - $Date]($Link)
+There is no text content available for this item, but you can view a PDF using the link above.
+
+"@
+    }
+    else {
+        $null = $TableOfContents.Add("$Date - $Title")
+        $Page += @"
+## [$Date - $Title]($Link)
 
 ``````
-$Content
+$Body
 ``````
 
 "@
+    }
 }
+
+$FormatToc = [System.Collections.Arraylist]::new()
+foreach ($obj in $TableOfContents) {
+    $null = $FormatToc.Add("- [$obj](#$($obj -replace ' ', '-'))")
+}
+
+$Page -replace '!TOCPLACEHOLDER!', ($FormatToc | Out-String) | clip

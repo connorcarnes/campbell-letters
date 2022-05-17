@@ -2,18 +2,71 @@
 
 Correspondence related to John Campbell and family. Campbell immigrated from Ireland to Texas ca. 1820 and encouraged his family to join him.
 
-This page is simply the text documents from https://scholarship.rice.edu/handle/1911/21706 compiled into a single chronological page.
-## <a href="/handle/1911/75456">Letter from Thomas Campbell to John Campbell</a>
+[Source](https://scholarship.rice.edu/handle/1911/21706)
+
+## Table of Contents
+
+- [1832 - Letter from Thomas Campbell to John Campbell](#1832---Letter-from-Thomas-Campbell-to-John-Campbell)
+- [1833 - Letter from James Campbell to John Campbell](#1833---Letter-from-James-Campbell-to-John-Campbell)
+- [1833 - Letter from James Campbell to John Campbell](#1833---Letter-from-James-Campbell-to-John-Campbell)
+- [1833 - Letter from James Campbell to John Campbell](#1833---Letter-from-James-Campbell-to-John-Campbell)
+- [1835 - Letter from James Campbell to John Campbell](#1835---Letter-from-James-Campbell-to-John-Campbell)
+- [1836 - Letter from James Campbell to John Campbell](#1836---Letter-from-James-Campbell-to-John-Campbell)
+- [1840 and 1860 - Twenty Years Ago by James Campbell](#1840-and-1860---Twenty-Years-Ago-by-James-Campbell)
+- [1840 and 1860 - Undated letter from James Campbell](#1840-and-1860---Undated-letter-from-James-Campbell)
+- [1840 - Letter from James Campbell to John Campbell](#1840---Letter-from-James-Campbell-to-John-Campbell)
+- [1841 - Letter Between Campbell Brothers](#1841---Letter-Between-Campbell-Brothers)
+- [1845 - Letter from Anson Jones to John Campbell, Barrington, Republic of Texas](#1845---Letter-from-Anson-Jones-to-John-Campbell,-Barrington,-Republic-of-Texas)
+- [1845 - Letter from Anson Jones to John Campbell, Barrington, Republic of Texas](#1845---Letter-from-Anson-Jones-to-John-Campbell,-Barrington,-Republic-of-Texas)
+- [1845 - Letter from Anson Jones to John Campbell, Barrington, Republic of Texas](#1845---Letter-from-Anson-Jones-to-John-Campbell,-Barrington,-Republic-of-Texas)
+- [1849 - Letter from Anson Jones to John Campbell, Washington, Texas](#1849---Letter-from-Anson-Jones-to-John-Campbell,-Washington,-Texas)
+- [1849 - Letter from Anson Jones to John Campbell, Barrington, Texas](#1849---Letter-from-Anson-Jones-to-John-Campbell,-Barrington,-Texas)
+- [1849 - Letter from Anson Jones to John Campbell, Barrington, Texas](#1849---Letter-from-Anson-Jones-to-John-Campbell,-Barrington,-Texas)
+- [1849 - Letter from Charles Campbell to John Campbell](#1849---Letter-from-Charles-Campbell-to-John-Campbell)
+- [1850 - Letter from Patrick and Mary Campbell to John Campbell](#1850---Letter-from-Patrick-and-Mary-Campbell-to-John-Campbell)
+- [1850 - Letter from James Campbell to John Campbell](#1850---Letter-from-James-Campbell-to-John-Campbell)
+- [1850 - Letter from James Campbell to John Campbell](#1850---Letter-from-James-Campbell-to-John-Campbell)
+- [1850 - Letter from John Campbell to Brother](#1850---Letter-from-John-Campbell-to-Brother)
+- [1850 - Letter from J.N. Campbell to John Campbell](#1850---Letter-from-J.N.-Campbell-to-John-Campbell)
+- [1850 - Letter from Anson Jones to John Campbell, Barrington, Texas](#1850---Letter-from-Anson-Jones-to-John-Campbell,-Barrington,-Texas)
+- [1850 - Letter from John Campbell to Brother](#1850---Letter-from-John-Campbell-to-Brother)
+- [1850 - Letter from Patrick Campbell to John Campbell](#1850---Letter-from-Patrick-Campbell-to-John-Campbell)
+- [1850 - Letter Between Campbell Brothers](#1850---Letter-Between-Campbell-Brothers)
+- [1850 - Letter Between Campbell Brothers](#1850---Letter-Between-Campbell-Brothers)
+- [1850 - Letter from James Campbell to John Campbell](#1850---Letter-from-James-Campbell-to-John-Campbell)
+- [1850 - Letter from John Campbell to Brother](#1850---Letter-from-John-Campbell-to-Brother)
+- [1852 - Letter from James Campbell to John Campbell](#1852---Letter-from-James-Campbell-to-John-Campbell)
+- [1852 - Letter from James Campbell to John Campbell](#1852---Letter-from-James-Campbell-to-John-Campbell)
+- [1856 - Letter from James Campbell to John Campbell](#1856---Letter-from-James-Campbell-to-John-Campbell)
+- [1856 - Letter from James Campbell to John Campbell](#1856---Letter-from-James-Campbell-to-John-Campbell)
+- [1856 - Letter from James Campbell to John Campbell](#1856---Letter-from-James-Campbell-to-John-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to his Uncle](#1862---Letter-from-James-Campbell-to-his-Uncle)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1862 - Letter from James Campbell to Martha Campbell](#1862---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1863 - Letter from James Campbell to Martha Campbell](#1863---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1863 - Letter from James Campbell to Martha Campbell](#1863---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1863 - Letter from James Campbell to Martha Campbell](#1863---Letter-from-James-Campbell-to-Martha-Campbell)
+- [1863 - John Campbell family farm record book](#1863---John-Campbell-family-farm-record-book)
+
+## [1832 - Letter from Thomas Campbell to John Campbell](https://hdl.handle.net/1911/75456)
 
 ```
-├»┬╗┬┐Campbell, Thomas. "Letter from Thomas Campbell to John Campbell." (1832) Rice University: https://hdl.handle.net/1911/75456.
 
 [[Page 1]]
 
 Drimcoe 14th Sept 1832
 
 Dr Son
- With heartfelt satisfaction we recd your welcome
+With heartfelt satisfaction we recd your welcome
 letter from Brooklyn which found us all well thank
 God hoping these all in the Same State.
 In the first place I have to remark to you a dreadful
@@ -28,13 +81,13 @@ is not far from you be attentive to your trade
 friends are all well in this Contry when you write
 again say what you know of Darby Gallaugher &
 Wife & strange very much you did not them in your
-Letter your Cousin Patrick is dead that is Peter├ó┬Ç┬Ös
+Letter your Cousin Patrick is dead that is PeterΓÇÖs
 Son if you meet with Wm or Dan MLaughlin let
 them know that their friends are all well I hope
 you will not forsake the Example you got at
 home Andw thinks you are very circumspect
 in encouraging him with regard to going to
-that Contry I don├ó┬Ç┬Öt blame you, but I expect
+that Contry I donΓÇÖt blame you, but I expect
 to see you in 12 months time if we are all
 Spared let me know whether it would be better
 
@@ -91,7 +144,7 @@ this Crop & She would wish him at home as
 his Absence grieves her much Sarah Birn is hired
 in Montreal & Jas is 6 miles up the River
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 Mr John Campbell care of Edwd
 Boyle corner of Pearl and Myrtle St
@@ -106,10 +159,9 @@ North America
 
 
 ```
-## <a href="/handle/1911/75427">Letter from James Campbell to John Campbell</a>
+## [1833 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75427)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1833) Rice University: https://hdl.handle.net/1911/75427.
 
 [[Page 1]]
 
@@ -210,7 +262,7 @@ we Mcgready wants to know
 about his sister that is Bryne Friel
 wife whether they are together or
 not. I strange very much
-that you don├ó┬Ç┬Öt send the directions
+that you donΓÇÖt send the directions
 of your letters to me. I have
 no more to say at present But
 your father mother brothers and
@@ -221,10 +273,9 @@ James Campbell
 
 
 ```
-## <a href="/handle/1911/75428">Letter from James Campbell to John Campbell</a>
+## [1833 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75428)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1833) Rice University: https://hdl.handle.net/1911/75428.
 
 [[Page 1]]
 
@@ -328,10 +379,9 @@ of New Y [[Missing]]
 
 
 ```
-## <a href="/handle/1911/75429">Letter from James Campbell to John Campbell</a>
+## [1833 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75429)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1833) Rice University: https://hdl.handle.net/1911/75429.
 
 [[Page 1]]
 
@@ -430,16 +480,15 @@ James Campbell
 I mentioned every other particular
 in the other 2 letters
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 For John Campbell of New
 York in North Amerca
 
 ```
-## <a href="/handle/1911/75430">Letter from James Campbell to John Campbell</a>
+## [1835 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75430)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1835) Rice University: https://hdl.handle.net/1911/75430.
 
 [[Page 1]]
 
@@ -513,7 +562,7 @@ sister Joins in love with me to
 you I am your affectionate brother
 unto Death James Campbell
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 For Mr John Campbell
 of New York
@@ -525,10 +574,9 @@ Fury of Brooklin
 
 
 ```
-## <a href="/handle/1911/75431">Letter from James Campbell to John Campbell</a>
+## [1836 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75431)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1836) Rice University: https://hdl.handle.net/1911/75431.
 
 [[Page 1]]
 
@@ -563,7 +611,7 @@ you for to Keep Brother
 Neal at school I expect
 He will Be shortly fit
 for Calage and it will cost
-60 or 70 ├é┬ú at least to send
+60 or 70 ┬ú at least to send
 him and he cost me a great
 Deal already. I strange very
 much that you Did
@@ -599,7 +647,7 @@ But remains your affectionate
 Brother untill Death
 James Campbell
 
-[[Page 4 ├ó┬Ç┬ô Envelope]]
+[[Page 4 ΓÇô Envelope]]
 
 Mr John Campbell
 of New York
@@ -618,10 +666,9 @@ Alabama
 
 
 ```
-## <a href="/handle/1911/75457">Twenty Years Ago by James Campbell</a>
+## [1840 and 1860 - Twenty Years Ago by James Campbell](https://hdl.handle.net/1911/75457)
 
 ```
-├»┬╗┬┐Campbell, James. "Twenty Years Ago by James Campbell." (1840 and 1860) Rice University: https://hdl.handle.net/1911/75457.
 
 [[Page 1]]
 
@@ -693,7 +740,7 @@ sleep beneath the sea but few are
 laft of our old class excepting you
 and me but whan our time shall come
 dear Tom and we are calld to go I hope
-they├ó┬Ç┬Öll lay us were we playd jist
+theyΓÇÖll lay us were we playd jist
 twinty year ago
 
 I heave not got a latter from you
@@ -720,10 +767,9 @@ for the cost of astake roofe he wood keep two
 [[blank]]
 
 ```
-## <a href="/handle/1911/75455">Undated letter from James Campbell</a>
+## [1840 and 1860 - Undated letter from James Campbell](https://hdl.handle.net/1911/75455)
 
 ```
-├»┬╗┬┐Campbell, James. "Undated letter from James Campbell." (1840 and 1860) Rice University: https://hdl.handle.net/1911/75455.
 
 [[Page 1]]
 
@@ -767,12 +813,11 @@ brother until death
 James Campbell
 
 ```
-## <a href="/handle/1911/75432">Letter from James Campbell to John Campbell</a>
+## [1840 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75432)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1840) Rice University: https://hdl.handle.net/1911/75432.
 
-[[Page 1 ├ó┬Ç┬ô Envelope]]
+[[Page 1 ΓÇô Envelope]]
 
 To Mr John Campbell
 Washington on
@@ -781,7 +826,7 @@ Washington County
 State of Texas
 U.S.A.
 
-[[marginalia ├ó┬Ç┬ô left]]
+[[marginalia ΓÇô left]]
 
 Care of
 Doctor
@@ -865,7 +910,7 @@ him any thing for it in the commencement
 of the Bad times I myself
 was foolish enough to buy
 Uncle Peters farm of land at odds
-of 30├é┬ú sterling which I would get
+of 30┬ú sterling which I would get
 a better farm this Day with out
 one shilling only pay the for it
 by purchase in the land and what
@@ -909,10 +954,9 @@ Brother until Death James Campbell
 
 
 ```
-## <a href="/handle/1911/75458">Letter Between Campbell Brothers</a>
+## [1841 - Letter Between Campbell Brothers](https://hdl.handle.net/1911/75458)
 
 ```
-├»┬╗┬┐"Letter Between Campbell Brothers." (1841) Rice University: https://hdl.handle.net/1911/75458.
 
 [[Page 1]]
 
@@ -972,7 +1016,7 @@ to come than you ar now and peraps not
 as well of I ampaying aman a boute 80
 pounds a yare for to take care of my
 stock and I lose a nofe bsides to seporte a
-famyl evry yare it don├ó┬Ç┬Öt taka man long
+famyl evry yare it donΓÇÖt taka man long
 take a starte in this county for a comen
 laber can get 2 shilings a day by the yare
 and mecaneicke can make from 6 to 12 shil
@@ -1042,10 +1086,9 @@ could not make a liveing any were else
 
 
 ```
-## <a href="/handle/1911/75421">Letter from Anson Jones to John Campbell, Barrington, Republic of Texas</a>
+## [1845 - Letter from Anson Jones to John Campbell, Barrington, Republic of Texas](https://hdl.handle.net/1911/75421)
 
 ```
-├»┬╗┬┐Jones, Anson, 1798-1858. "Letter from Anson Jones to John Campbell, Barrington, Republic of Texas." (1845) Rice University: https://hdl.handle.net/1911/75421.
 
 [[Page 1]]
 
@@ -1091,10 +1134,9 @@ Anson Jones
 To Mr. John Campbell
 Present
 ```
-## <a href="/handle/1911/75422">Letter from Anson Jones to John Campbell, Barrington, Republic of Texas</a>
+## [1845 - Letter from Anson Jones to John Campbell, Barrington, Republic of Texas](https://hdl.handle.net/1911/75422)
 
 ```
-├»┬╗┬┐Jones, Anson, 1798-1858. "Letter from Anson Jones to John Campbell, Barrington, Republic of Texas." (1845) Rice University: https://hdl.handle.net/1911/75422.
 
 [[Page 1]]
 
@@ -1141,7 +1183,7 @@ To
 Mr. John Campbell
 Austin
 
-[[Marginalia ├ó┬Ç┬ô left]]
+[[Marginalia ΓÇô left]]
 
 P.S. I have heard nothing from Mr. Jenkins in regard
 to the Lumber he was to deliver me.
@@ -1149,10 +1191,9 @@ Any cabinet work there may be required, I should
 like Mr. Vancleve to do.
 
 ```
-## <a href="/handle/1911/75423">Letter from Anson Jones to John Campbell, Barrington, Republic of Texas</a>
+## [1845 - Letter from Anson Jones to John Campbell, Barrington, Republic of Texas](https://hdl.handle.net/1911/75423)
 
 ```
-├»┬╗┬┐Jones, Anson, 1798-1858. "Letter from Anson Jones to John Campbell, Barrington, Republic of Texas." (1845) Rice University: https://hdl.handle.net/1911/75423.
 
 [[Page 1]]
 
@@ -1203,10 +1244,9 @@ To,
 Mr. John Campbell
 
 ```
-## <a href="/handle/1911/75424">Letter from Anson Jones to John Campbell, Washington, Texas</a>
+## [1849 - Letter from Anson Jones to John Campbell, Washington, Texas](https://hdl.handle.net/1911/75424)
 
 ```
-├»┬╗┬┐Jones, Anson, 1798-1858. "Letter from Anson Jones to John Campbell, Washington, Texas." (1849) Rice University: https://hdl.handle.net/1911/75424.
 
 [[Page 1]]
 
@@ -1241,10 +1281,9 @@ Anson Jones
 
 
 ```
-## <a href="/handle/1911/75425">Letter from Anson Jones to John Campbell, Barrington, Texas</a>
+## [1849 - Letter from Anson Jones to John Campbell, Barrington, Texas](https://hdl.handle.net/1911/75425)
 
 ```
-├»┬╗┬┐Jones, Anson, 1798-1858. "Letter from Anson Jones to John Campbell, Barrington, Texas." (1849) Rice University: https://hdl.handle.net/1911/75425.
 
 [[Page 1]]
 
@@ -1276,126 +1315,45 @@ Anson Jones
 
 
 ```
-## <a href="/handle/1911/75459">Letter from John Campbell</a>
+## [1849 - Letter from Anson Jones to John Campbell, Barrington, Texas](https://hdl.handle.net/1911/75425)
 
 ```
-├»┬╗┬┐Campbell, John. "Letter from John Campbell." (1849) Rice University: https://hdl.handle.net/1911/75459.
 
 [[Page 1]]
 
-1849
+[[Envelope]]
 
-mays Washington November th10
+Mr. John Campbell
+Independence
 
-Mrs Madem I received your kind
-faver of th 15 and was sory to hear [[illegible]]
-sickness that you had in your famly [[th?]]
-laste sumer I have had good helth
-all the sumer a so did Ciserioe and he
-is pickeing coten at present Idont
-think that I will be there before the 15 of
-January I am very sory for youre trobel
-but there is nothing in this worl only
-trobel and vexsetion I was sory and answered
-at mis Catrin reporte of youre
-travels to the Campmeeting and the times
-there I wood be there but sircumstans prohebet
-in this country the peopel is moving
-of by hole sale there is a bout from 3 to
-5 wedings a week on an avredg you have
-mentch that frank has not tendet
-to the stock since I lefte I wish you
-to say to frank that there is one of to
-things that he has got to do that is
-to deliver the to horses that he got
-from me to John tom or get the
-Catel and that without fale or he
-has not treted me as he out to do he is
-sum 55 or 60 dollars in my det I have
-rote to mr tom on the mater the steem
-botes is rouning the brases now and the planters
-all is in good sperits and goods
-grosery is Cheep but mony is hard to
-come at yet the cotton crope has not
-gon to mark yeit I hope that dora
-will not forget me before I go there for
+Favor of
+Mr. Pierce
 
 [[Page 2]]
 
-my move ments is slow it took me a
-long time to come and it make take a
-long time to go I am sory to her that mate
-and things have not went on smoly since
-I left the weste tel Mr Mays that hop
-to  some of the fine petote that he
-brage on and if he sees frank to tel him
-that he will be oblidge to setel with me
-when I get there and that no excuse
-will do for his neglect I receivd a leter
-from mr tom stateing the same o bute
-him so there is no excuse for him
+Barrington Sep. 12th 1849
 
-nothing more at present
-but I remen youre
-moste obedent friend
-John Campbell
+Mr. J. Campbell
 
-[[Page 3]]
+Dr Sir,
 
-Washington November th 10 1849
-Mr Jinerl Wooldridge sir I tak
-the liberty of a dresing a fue lines to
-and I hope you will be so kinde as
-to sende my mare down to Dr Anson
-Jones as soon as possebel as I intende to leave
-Jin for the horse of to or three weeks for the
-weste and it wood be very inconveniet
-for me to go for her as I am very medingage
-at present and will be on to
-I live very respectful
-your
-John Campbell
+If you have no better
+use for your Mexican Boy I think I can
+find employment for him for a few weeks
+at Cotton picking & you can send him
+down so soon as he is ready
 
-[[Page 4]]
+Yours Respectfully
 
-Washington November th 12 1849
-Mr John tom I hav receved your
-of the 25 of Spte on the 10 of november
-you mentched that frank di not delevr
-us Catel since I lefte there is three
-cowse and calf on the eiste side of the river
-and if you will be so good as to try and
-have the calf maked it bradet and when
-I come I will have them brought
-over mr brill knows 2 of them and
-I will pay a anything in reson for the
-trobel and there is severl in the reings
-if you will be so kind as to get and
-I will satisfy you for youre trobel
-you rite me that you solde 18 of hed
-of Cowes at 2 cents I am of the belie
-that you ar of that lef is bouto rise and
-to not sel aymore on les you get 3
-cents forit my cowes is all youngeun
-and will prov that much if frank will not
-get the cattel tel him that you ar
-orithed to take the black and bay poneys
-that I let him have and for you
-to get them or sumthing as good if you can
-if he is gone to leve I hope to
-be there in aboute six or seven weekes
-nothing mor at present buyt
-I remain your moste
-beden friend
-John Cambell
+Anson Jones
+
 
 ```
-## <a href="/handle/1911/75460">Letter from Charles Campbell to John Campbell</a>
+## [1849 - Letter from Charles Campbell to John Campbell](https://hdl.handle.net/1911/75460)
 
 ```
-├»┬╗┬┐Campbell, Charles. "Letter from Charles Campbell to John Campbell." (1849) Rice University: https://hdl.handle.net/1911/75460.
 
-[[Page 1 ├ó┬Ç┬ô envelope]]
+[[Page 1 ΓÇô envelope]]
 
 [[envelope has cancellation stamps that say "Donegal"]]
 Paid [[unclear]]
@@ -1406,7 +1364,7 @@ Washington County
 Care of
 Doctor Anson Jones State of Texas U. S.
 
-[[Page 2 ├ó┬Ç┬ô envelope]]
+[[Page 2 ΓÇô envelope]]
 [[red wax seal]]
 
 [[Page 3]]
@@ -1467,10 +1425,10 @@ that your brother Neal was at the Latin
 when you left this country I supported
 him for 9 years at the Latin school Between
 Donegall and Letterkenny at from 8 to
-13 ├é┬ú a year well He passed the examination
+13 ┬ú a year well He passed the examination
 for the collage of Maynooth I sent him
 there and he was there for 5 years and
-he cost me from 15 ├é┬ú to 40 ├é┬ú a year
+he cost me from 15 ┬ú to 40 ┬ú a year
 there then came some Debate between
 him and one of the Professors of the Collage
 and he was sent home after all being lost
@@ -1592,16 +1550,15 @@ Campbell of Drimcoe in county of
 Donegall Parish of Inner Near that
 Charles
 
-[[marginalia ├ó┬Ç┬ô left]]
+[[marginalia ΓÇô left]]
 
 I am your brother untill death James Campbell
 My wife is Mary Gallaugher, Brother Peters first wife was Her Ant
 
 ```
-## <a href="/handle/1911/75461">Letter from Patrick and Mary Campbell to John Campbell</a>
+## [1850 - Letter from Patrick and Mary Campbell to John Campbell](https://hdl.handle.net/1911/75461)
 
 ```
-├»┬╗┬┐"Letter from Patrick and Mary Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75461.
 
 [[Page 1]]
 
@@ -1691,7 +1648,7 @@ No more at Present but remains
 your affectionate brother and wife until
 death Patrick Cambell and wife Mary Campbell
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 To Mr John Campbell
 Washington [[crossed out]] on the
@@ -1703,10 +1660,9 @@ Jones U S A
 [[cancellation stamp "50 APR 10"]]
 [[red wax seal]]
 ```
-## <a href="/handle/1911/75433">Letter from James Campbell to John Campbell</a>
+## [1850 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75433)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75433.
 
 [[Page 1 -- Envelope]]
 
@@ -1792,10 +1748,10 @@ I met with since you left this country
 you recollect that Brother Neal was
 at the Latin at the time you left this
 I left Him at Latin in Donegall And Letterkenny
-for 9 years from 5├é┬ú to 13├é┬ú a year
+for 9 years from 5┬ú to 13┬ú a year
 it cost me then. He passed examinations
 for the collage of May north I sent Him
-there for 5 years which cost me 20├é┬ú a
+there for 5 years which cost me 20┬ú a
 year then He had some dispute with
 one of the professors of the collage He
 was then turned out and sent Home
@@ -1894,19 +1850,18 @@ not I Have no more to say a present
 But I remain your brother untill
 death James Campbell
 
-[[marginalia ├ó┬Ç┬ô left]]
+[[marginalia ΓÇô left]]
 
 when you write direct your letter to James Campbell
 of Drimcoe Parish of Inver, County of Donegall in Ireland
 
 
 ```
-## <a href="/handle/1911/75434">Letter from James Campbell to John Campbell</a>
+## [1850 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75434)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75434.
 
-[[Page 1 ├ó┬Ç┬ô envelope]]
+[[Page 1 ΓÇô envelope]]
 
 Mr. John Campbell
 Seguin
@@ -1983,7 +1938,7 @@ thing about brother Thomas and sister
 Rose the are both quite stupid for
 the art of man would not make
 them as cute as another but they
- are both the sturdayest of the whole
+are both the sturdayest of the whole
 
 [[Page 5]]
 
@@ -2055,10 +2010,9 @@ your brother James Campbell
 
 
 ```
-## <a href="/handle/1911/75462">Letter from John Campbell to Brother</a>
+## [1850 - Letter from John Campbell to Brother](https://hdl.handle.net/1911/75462)
 
 ```
-├»┬╗┬┐"Letter from John Campbell to Brother." (1850) Rice University: https://hdl.handle.net/1911/75462.
 
 [[Page 1]]
 
@@ -2208,12 +2162,11 @@ more onle I remane you brother until
 dath John Campbell
 
 ```
-## <a href="/handle/1911/75466">Letter from J.N. Campbell to John Campbell</a>
+## [1850 - Letter from J.N. Campbell to John Campbell](https://hdl.handle.net/1911/75466)
 
 ```
-├»┬╗┬┐"Letter from J.N. Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75466.
 
-[[Page 1 ├ó┬Ç┬ô Envelope]]
+[[Page 1 ΓÇô Envelope]]
 
 11
 Juin
@@ -2224,7 +2177,7 @@ Mr. John Campbell
 Washington, on Rio Brazos
 State of Texas. U. States
 
-Care ├ó┬Ç┬ô Doctor Anson Jones
+Care ΓÇô Doctor Anson Jones
 
 [[Page 2 - envelope]]
 
@@ -2232,7 +2185,7 @@ Care ├ó┬Ç┬ô Doctor Anson Jones
 
 [[Page 3]]
 
-St. Ann├ó┬Ç┬Ös College 10th June 1850
+St. AnnΓÇÖs College 10th June 1850
 
 My Dear Brother
 Some months since I had a letter from my brother James
@@ -2244,7 +2197,7 @@ be dead, yet I hoped, but in vain. I did, indeed, meet with men who told me they
 saw you at such a time at such a place &c. &c. so that I was at last forced to figure
 you, to myself, in the character of a Flying Dutchman.
 
-Our brother James├ó┬Ç┬Ö letter has however settled my doubts by telling me that
+Our brother JamesΓÇÖ letter has however settled my doubts by telling me that
 they had a letter from you at home, he tells me too that he wrote to you when he wrote to
 me & told you where I was, I would then have written long since, but that I expected
 a few lines from you every moment since the receipt of his letter. I begin to fear you
@@ -2257,12 +2210,12 @@ viz. our parents while alive, & our old homes while we ourselves live. So for my
 so few ever came to America so helpless as I did, & [[know?]] you may imagine that I had many
 difficulties to contend with before I could place myself where I now am, and of course in
 these times of doubt & difficulty I had no great inclination to let my friends know how I
-was situated, still I wrote to them regularly ├ó┬Ç┬ô in fact I have never been so long without sending
-home a letter as since my brothers├ó┬Ç┬Ö last, & this because I expected a few lines from you.
+was situated, still I wrote to them regularly ΓÇô in fact I have never been so long without sending
+home a letter as since my brothersΓÇÖ last, & this because I expected a few lines from you.
 I cannot however delay longer, so that I post one for home, when I shall post this, but
 I hope to have a letter from you soon, were there only a very few lines.
 
-My Dear John I very clearly recollect the day on which you left home, tho├ó┬Ç┬Ö I was
+My Dear John I very clearly recollect the day on which you left home, thoΓÇÖ I was
 I believe quite little at the time. Our beloved parents were there living, of course you are
 aware that both are now dead, Mother died in the December of 1837, Father in the May
 of 1847. Uncle Peter is also dead, I believe in the same month & year as father,
@@ -2270,11 +2223,11 @@ Our uncle John is still I believe in the coast-guard service, his daughter Rose 
 near Ballyshannon, Catherine is at a place called Cold Spring on the Hudson, her husbands
 name is Doyle from Kingston near Dublin; Annabella & Anne came out about 4 years
 since, poor Annabella died about a year after her arrival, Anne still lives in Brooklyn
-uncle Michael├ó┬Ç┬Ös daughter Catherine is married in Brooklyn, her husbands name is McGonagle
+uncle MichaelΓÇÖs daughter Catherine is married in Brooklyn, her husbands name is McGonagle
 I went up to New York about 3 years since. I at that time heard that you were
 in Havanna, I wrote thither but could get no account of you, thus I gave up the chase
 until I should have my studies finished, when I should have made a strict search, but
-James├ó┬Ç┬Ö letter put a stop to that & gratified my most ardent wish, viz. to know that
+JamesΓÇÖ letter put a stop to that & gratified my most ardent wish, viz. to know that
 you were alive & well.
 
 I have no time just now to give you a full account of my own life
@@ -2295,13 +2248,13 @@ I left there, having a promise from my Bishop to continue my studies in France.
 
 You can hardly conceive what my feelings were on my way home even with this
 promise; but had I known then all I knew about two or 3 months after I would not
-I think have turned towards home, tho├ó┬Ç┬Ö my reception was kind in the circumstances.
+I think have turned towards home, thoΓÇÖ my reception was kind in the circumstances.
 Still there was a something often shewing that I was in the way; I remained thus about
 the space of 18 months and my every effort was counteracted by hidden enemies.
 I at length resolved on emigrating or remaining no longer at home; I left home on
-the 30th September of 1844 ├ó┬Ç┬ô sailed from Liverpool on the 12th october; landed at
+the 30th September of 1844 ΓÇô sailed from Liverpool on the 12th october; landed at
 New York on 12th Nov. of same year, & landed as most persons do in that city; I ad
-not the address of one single friend ├ó┬Ç┬ô I knew many students from Maynooth
+not the address of one single friend ΓÇô I knew many students from Maynooth
 were priests in the state of New York, but where to look for them, was the question
 which I could not answer.
 
@@ -2311,25 +2264,25 @@ I remained in New York & Brooklyn about 3 months, during this time I met many
 steadfast & true friends; I did all I could to enter the college at New York, but at that season
 I could not succeed; I then proceeded, by the kind aid of friends in New York, to Maryland
 to a college near Emmetsburg. I remained there until O Connell made his celebrated
-speech against slavery ├ó┬Ç┬ô this kindled a bad spirit in the students who were generally
+speech against slavery ΓÇô this kindled a bad spirit in the students who were generally
 from slave states & they attempted to burn O Connell in effigy; I alone undertook
-to prevent them, & did so effectually, tho├ó┬Ç┬Ö I did not coincide with O Connel at that
+to prevent them, & did so effectually, thoΓÇÖ I did not coincide with O Connel at that
 time, nor for some time before I left home. I thought he should rather attend to
-his own & his country├ó┬Ç┬Ös slavery rather than come to attack slavery in America
+his own & his countryΓÇÖs slavery rather than come to attack slavery in America
 where his ideas of slavery were despised, & where slaves are in condition superior to
 to the farmers of Ireland. But this is nothing to the purpose. Patricks day succeeded
-this ├ó┬Ç┬ô our society would not be permitted to meet & prohibited by the President of
+this ΓÇô our society would not be permitted to meet & prohibited by the President of
 the college himself an Irishman. Henceforward I would do nothing but what I was
 bound to do by the strict rules of the college. I left there in the month of May or
-June ├ó┬Ç┬ô when I came back to New York, I met Bishop Quarters, he advised me
+June ΓÇô when I came back to New York, I met Bishop Quarters, he advised me
 to come to Canada, and that after a years study in Montreal he would receive me
 for his Diocese. When I came to Montreal, I would not be received in the college without
 letters when I then had not; I came to Quebec, & remained a year in Quebec, after that year
 I entered this college. Thus you see I have  rambled as well as yourself, but I never
 left my friends in doubt of my existence or place of abode. It is a Philosophy I like
-not, and hence I write to you, tho├ó┬Ç┬Ö in doubt about your address. The map of Texas
+not, and hence I write to you, thoΓÇÖ in doubt about your address. The map of Texas
 has aided me more in finding your address than my brothers letter, and if his
-got it, tho├ó┬Ç┬Ö only a student here, having my education & together with $50 P year
+got it, thoΓÇÖ only a student here, having my education & together with $50 P year
 for teaching Latin & English, still I contrive to send home a few pounds a year.
 At the end of each of the last two years I got part of ordination, at the end of
 this year, that is in the month of August, I believe I shall get subdeaconship, and
@@ -2337,24 +2290,24 @@ perhaps Priesthood also, but I have no certainty of the latter so soon.
 
 I had to stop writing yesterday as the alarm of fire was given in the college
 The college is situated about 75 miles below Quebec on the banks of the St. Lawrence
-with perhaps 30 houses in the village. I must cease as the Post is about to start ├ó┬Ç┬ô
-our vacation will commence on about the 25th of July ├ó┬Ç┬ô you will know
+with perhaps 30 houses in the village. I must cease as the Post is about to start ΓÇô
+our vacation will commence on about the 25th of July ΓÇô you will know
 by the time that this note will be on the way, whether your answer will find
 me here or not. If you have this before the first of July & write immediately
 you will direct as follows thus
 
-J. N. Campbell ├ó┬Ç┬ô Eccl ├ó┬Ç┬ô
-St. Ann├ó┬Ç┬Ös College
+J. N. Campbell ΓÇô Eccl ΓÇô
+St. AnnΓÇÖs College
 District of Quebec
-L ├ó┬Ç┬ô Canada
+L ΓÇô Canada
 
-[[Marginalia ├ó┬Ç┬ô left]]
+[[Marginalia ΓÇô left]]
 
-If you don├ó┬Ç┬Öt write before the first
+If you donΓÇÖt write before the first
 days of July, you will direct thus
-J. N. Campbell ├ó┬Ç┬ô Eccl.
-Care ├ó┬Ç┬ô Revd M. Kerrigan
-A P. St. Patrick├ó┬Ç┬Ös Church
+J. N. Campbell ΓÇô Eccl.
+Care ΓÇô Revd M. Kerrigan
+A P. St. PatrickΓÇÖs Church
 Quebec
 L -- Canada
 
@@ -2364,16 +2317,15 @@ Your brother
 J. N. Campbell
 
 For John Campbell
-Washington ├ó┬Ç┬ô on Rio ├ó┬Ç┬ô Brazos
+Washington ΓÇô on Rio ΓÇô Brazos
 State of Texas
 U. S.
-Care ├ó┬Ç┬ô Dr Anson Jones
+Care ΓÇô Dr Anson Jones
 
 ```
-## <a href="/handle/1911/75426">Letter from Anson Jones to John Campbell, Barrington, Texas</a>
+## [1850 - Letter from Anson Jones to John Campbell, Barrington, Texas](https://hdl.handle.net/1911/75426)
 
 ```
-├»┬╗┬┐Jones, Anson, 1798-1858. "Letter from Anson Jones to John Campbell, Barrington, Texas." (1850) Rice University: https://hdl.handle.net/1911/75426.
 
 [[Page 1]]
 
@@ -2398,7 +2350,7 @@ are well & we have a son born on the
 is very good at Washington. I believe
 & there will be a good deal of work to be
 done there in you line this fall. My
-crops are fine. I sold ├ó┬Ç┬£Jake├ó┬Ç┬¥ the yellow boy
+crops are fine. I sold ΓÇ£JakeΓÇ¥ the yellow boy
 you recollect to have seen, to T. J. Allcorn,
 last week for $800. If convenient & the crop
 of cotton continues to do well I should
@@ -2421,10 +2373,9 @@ your friend
 
 
 ```
-## <a href="/handle/1911/75467">Letter from John Campbell to Brother</a>
+## [1850 - Letter from John Campbell to Brother](https://hdl.handle.net/1911/75467)
 
 ```
-├»┬╗┬┐Campbell, John. "Letter from John Campbell to Brother." (1850) Rice University: https://hdl.handle.net/1911/75467.
 
 [[Page 1]]
 
@@ -2547,10 +2498,9 @@ seguine Gadelope county
 state of taxas u s a
 
 ```
-## <a href="/handle/1911/75465">Letter from Patrick Campbell to John Campbell</a>
+## [1850 - Letter from Patrick Campbell to John Campbell](https://hdl.handle.net/1911/75465)
 
 ```
-├»┬╗┬┐Campbell, Patrick. "Letter from Patrick Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75465.
 
 [[Page 1]]
 
@@ -2559,7 +2509,7 @@ Fanahare August 4th 1850
 Dear Brother I take the opportunity of writing
 those few lines to you Hoping the will find
 you in good Health as this leaves me and family
-in at Present thank├ó┬Ç┬Ös be to god for his mercies
+in at Present thankΓÇÖs be to god for his mercies
 to us we do appear to Have A bad crop of
 potatoes all over this country this year again
 they are all in infected this year Again on
@@ -2651,7 +2601,7 @@ But Remains your affection brother until Death
 Patrick Campbell Wen you write send every one
 of A A Letter Directed to ourselves
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 To Mr. John Campbell
 Seguin Guadalupe
@@ -2661,7 +2611,7 @@ U S of America
 Gonzales County
 Texas
 
-[[Marginalia ├ó┬Ç┬ô Right]]
+[[Marginalia ΓÇô Right]]
 
 Your Brother Peter or Any of the Children that
 would go there they would be very well inclined
@@ -2670,12 +2620,11 @@ them in going to that Country
 
 
 ```
-## <a href="/handle/1911/75464">Letter Between Campbell Brothers</a>
+## [1850 - Letter Between Campbell Brothers](https://hdl.handle.net/1911/75464)
 
 ```
-├»┬╗┬┐"Letter Between Campbell Brothers." (1850) Rice University: https://hdl.handle.net/1911/75464
 
-├»┬╗┬┐[[Page 1]]
+∩╗┐[[Page 1]]
 
 Seguin Gadelope County October th14 1850
 
@@ -2800,139 +2749,138 @@ chees comands a good prise in this Country at
 time and the I ladys wood mak anof to
 seport the famlyse by buter and Cese
 ```
-## <a href="/handle/1911/75463">Letter from J.N. Campbell to John Campbell</a>
+## [1850 - Letter Between Campbell Brothers](https://hdl.handle.net/1911/75464)
 
 ```
-├»┬╗┬┐"Letter from J.N. Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75463.
 
-[[Page 1]]
+∩╗┐[[Page 1]]
 
-St Ann├ó┬Ç┬Ös College 22nd Octobr 1850
+Seguin Gadelope County October th14 1850
 
-My Dear Brother
-
-It is but a few days Since I recieved your letter of
-the 22nd July and even now it was by a mere chance that I did
-recieve it. I went to post a letter for my brother james, and after
-doing so, I by chance looked over the list of unclaimed letters in
-the Quebec Post. office, and thus I found your letter. I had been absent
-on vacation when it came to Quebec. When I wrote to you before, I did
-not expect to be in St. Ann├ó┬Ç┬Ös this year, so during all the past year
-the Superiors of the college were in expectation of getting Some one to take
-my place, but they were disappointed, & so was I too, for I am really tired
-of the place, but there is no resource, however my time here ends with
-next July certainly, they cannot insist on my remaining longer. I have
-had a letter about 2 weeks since from Sister Nabla, it tells me that
-all are well except brother Peter who was at that time recovering from
-sickness. My Dear John you express a wish that all our brothers
-and Sisters were in Texas, I can do no more than add my wishes to yours,
-but I see the impossibility of it, even supposing that none of them
-love the spot where they were born, for at present not one of them
-would get as much for their property now as would take their family
-out, and I could on no account advise them to come if the entire
-family could not be bought, of course brother james having no family
-he & his wife could easily, so could Thomas and sister Rose both being
-unmarried, but even these, they have no ready money, & no one to give it
-& besides Thomas & Rose would not know how to reach you & would be
-liable to be cheated & robbed in every port they could reach, in one word
-none of them can come without money, & if I had it I would give it to
+Daire brother I take this faberl opernity of righting
+thaes fue lines to you hopinh that the will find
+you and famly and all my reteleions in Joyeing
+good health as this lave me at present thank
+god I received yours of the 15 of August a fue days
+a go and I was very glad to here that all was well
+and very sory to here that the petote crops was
+a bout to fale a gain on the a Count that I was
+in hopes that sume wood be abel to Come to taxes
+this fall it is hard for me to Comemand much meins
+wiht out sackrefiseing property that I made
+by hard worke and hardships wich I do not lake
+to do. but if the ware here I Cold asiste them
+to take a starte but I am makeing my araingements
+for to asiste a many as I Can next fall to
+Come to taxas I received a leter from brother
+pat stateting that he will come and I rote to
+him to come [[unclear]] right away and I think that he
+beter Come and that will releve you sum and
+I ntend to asiste brother petor and famly to come
+next fall and brother micels widow and children
+if the will live with me and I want her
+to right me what the will do so as I will know
+how to manage and you mentch in your leter
+that sister rose was not in good health and I think
+that shes betore stay with you for the prasent and
+I will see how I will get a long and I may be
 
 [[Page 2]]
 
-send some of them to Texas at once. The state of Ireland is too horrible to
-relate, for brother cannot assist brother, nor can Sister assist Sister. I need
-not conceal from you that tho├ó┬Ç┬Ö I hate landlordism & tyranny of every
-sort, still I should like some of them would remain in Drimcoe; and I after
-a short time would pay the rent of it, for I expect, that a change shall soon
-take place between landlord & tenant & if such were the case I would
-visit my native place once more, & therefore would like to have my
-old home to go to; and you too I hope to see you in Ireland, even if Some of
-our brothers & sisters go to Texas, indeed I suppose it would then be easier
-for you to pay Ireland a visit. I hope she will soon arise from that
-terrific nightmare the creation of O Connell & his party, that has crushed her
-so long, that absurd principle of nonresistance even to save one├ó┬Ç┬Ös own life.
-And this after having by the very opposite principles robbed the poor of
-some Millions of pounds in the course of 20 years. I say ├ó┬Ç┬£robbed the poor├ó┬Ç┬¥
-for, the poor alone paid their ├é┬ús & Shillings to the Repeal Association
-& what did they get for it? insult alone. and now not one farthing of this
-money forthcoming, all squandered by a set of briefless barristers the cormorants
-of that accurse association. look for instance at the absurdity of
-giving from ├é┬ú100 to ├é┬ú500 to clerks who could give their services for nothing,
-and giving a pension to the wife of T. Mc Ray the Secretary, this way
-went the money of the poor. and now the O Connell character has followed
-in the same path.
-
-my dear brother I can not blame you for trying to keep your money from
-the landlords & agents of Ireland, they are an accursed crew it is certain, but as I
-said before if you were to expect any of them as far as Texas, you would have to
-arrange every thing for this passage & give very accurate directions how &
-where they should proceed when they had landed here. I would like very
-much that you would take Thomas to you, and if you could lend or bestow
-me, I will say lend me $100 I will pay his passage to New Orleans or to
-Galveston, and refund the money to you again. When you write, let me
-know what you think of this proposal. I would like to be the means of
-settling brother Thomas & Sister Rose, but at present I have not the means.
+be abel to asiste her some I recivede a long letor
+from nail in July and I rote to him he give
+me a rale siteing down for not riting hime but
+when he see as much of the world as I have he will
+be a betor Jude this is a very fine country and emegrace
+is comeing in very fast and the farmers has
+maid fine crops this seson and the have there crops
+harvest all but there coten and suger and the
+marked opens very faberle and priceise is good amen
+Can tend twenty five ackers of land in this
+Country with one horse and make from 40 to 50
+busels of Corn to the acker and he Can selet
+at fom 2 to 4 shilings per bushel and he Can
+rase plenty of stock of all kinds cows and horses
+and hogs and sheep if he wants to be side
+and petote and wheit and evry thing that
+he Can rass in Irland this is a free country
+for evry man Can be a free holder if he will
+try to and be a litel in doustry and we have
+anether privilege here and is if a man hasnot
+got shues he cCan go bere footed I am working
+at my trade at present and Intende to
+Continue working at it for one yare and all
+that I make in to then with waht I have
+to bring soume of reletefs to taxes from that
+land of tryne and epresen where the Can
+live in peese and not beharest by landslords
+and ther agents nor poore rates we have no railment
+poore pepel in this Contry for there is imploy
 
 [[Page 3]]
 
-Of course you may not have ready money either so it would be impossible
-for you to do as I request, but, you will easily say so, as after a year or so
-I will be able, if I live, to save so much. At any rate in my opinion none
-of them can come without our aid, this is certain.
+for all that will work and good wages to [[unclear]]
+them and when a man gets him a pise of lan
+and opens him a farmm then he Can gather
+evry thing a round him ait increase so fast that
+he gets independent before he knwes it a man
+that farmes it here can make from 2 to 4 pounds
+dollars a yare and seport a famly be sides and
+he Can sit aunder his one shade and that is
+more thane a farmer can do in Irland for the
+poore farmere is a poore slave to the nobility in
+poore deprest irland Daire brother it greives me
+to the harts to think that all has been slaves
+to the landlords so long and when fall to
+serve them well the will tourn you out of door
+and then youd have to hount a new master or
+perhaps go to the poorehouse we have now such
+tryney in this land of independents and plenty
+I think if pat will come this winter that i will
+be all to Judge betor how to act I think that
+a most all that Comes to taxas is not pleet
+for the first yare or two and after that
+the think that it is the best Contry in the worl
+so I think that when pat Comes and sees that
+he wood be a betore Judgs than me for I have
+been here so long that I think that taxas is the
+baste poore man is Contry in the world and as
+for his wife she will not trobel me on the
+a Count that this Country is large and wide
+and I wonte trobel her much for I travel
 
-I am well aware of the many difficulties the Texans had to encounter
-in freeing themselves from a yoke as weighty almost as that of poor
-Ireland which many would be glad to leave if they could. and it is a
-hard case, that when they do take courage & leave Ireland every step they
-take till they are perfectly settled, they are subject to the influence of the
-Blacklegs of the American ports, an influence exercised by the very scum
-of European society & still more galling than that of Irish nobility. Pshaw!
-there is no such thing as Irish nobility, nor even respectability. the very men whom
-I knew to be foremen on grand juries & magistrates are obliged to go to the Poorhouse
-for their dish of soup or pound of Indian meal. some of those whom
-we call landlords, seek the situations of porters as those public shambles.
-Some whom are formerly called ladies seek the situation of nurse in hospitals
-at a few pence per day. Such is life in Ireland, how then can you expect
-but that all should be in need of assistance?
+[[Page 4]]
 
-Again I do not blame you for not litting your money
-go to landlords, but in the name of God assist some of them to
-come to you & leave as much as they can spare to assist those
-who will have the courage to remain or be obliged to remain for a time.
-
-I expect a letter from brother James soon, when I answer it I will
-try to persuade some of them to go there, and after a time they will be
-able to bring the rest. My dear John I am glad that you can write
-your own letters as I will thus hear from you oftener. Write soon
-your brother till death
-J.N. Campbell
-
-My address is on an enclosed envelope
-[[unclear]]
-
-Revd J.N. Campbell
-St. Ann├ó┬Ç┬Ös College
-District of Quebec
-L Canada
-
-[[Page 4 ├ó┬Ç┬ô envelope]]
-
-Paid, 28 cents
-
-John Campbell Esqr
-Seguin, Co. of Guadelupe
-State of Texas
-U. States
-
-J.N.C
-
-
+a goodal and I have no famly to trobel her
+I think that if no bad louck comes in my way
+that next fall I will be abel to raise one houndren
+pounds for pashesish and bring as many out as I can
+I think that brother tomas had beto come
+with brother pat and make somthing for the
+balens to live on when the Jet here prepare
+the may be avesel Comeing to galveston and
+it wood be beter for them to Come derect
+to gaveston and then it will not Cost
+much from galvston to port levack brother
+petor rote to me in pat later that his lande
+has giveing him warning to lave his land in
+november which I am very sory for his sithetion
+and I think that he had betor to make all
+the preperations that he can and Come next
+fall I am paying a man a bout 80 pounds
+a yare to a man to tend to my stock and
+I lose a nofe besides for to seporte a famly
+Intend to start a new stock farm next spring
+and the spring folwing I will tak my
+stock back and then I will want help
+to milk and tend to them and buter and
+chees comands a good prise in this Country at
+time and the I ladys wood mak anof to
+seport the famlyse by buter and Cese
+```
+## [1850 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75435)
 
 ```
-## <a href="/handle/1911/75435">Letter from James Campbell to John Campbell</a>
-
-```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1850) Rice University: https://hdl.handle.net/1911/75435.
 
 [[Page 1]]
 
@@ -2994,7 +2942,7 @@ the would be angry with me to say aney
 thing a bout it your sister is not as badly
 treated since the came to your
 brother James I had a letter from brother
-Neale in agust he sent me ├é┬ú4 it served
+Neale in agust he sent me ┬ú4 it served
 me very much at that time it aforded
 your uncle John and family [[unclear]]
 to here of the fine progress that you [[unclear]]
@@ -3011,7 +2959,7 @@ Daniel Friel Keelogs Parish of
 Inver Mount Charles Donegall
 Ireland
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 To Mr John Campbell
 Seguin Guadalupe County
@@ -3019,10 +2967,9 @@ Texas United States of
 America
 
 ```
-## <a href="/handle/1911/75468">Letter from John Campbell to Brother</a>
+## [1850 - Letter from John Campbell to Brother](https://hdl.handle.net/1911/75468)
 
 ```
-├»┬╗┬┐Campbell, John. "Letter from John Campbell to Brother." (1850) Rice University: https://hdl.handle.net/1911/75468.
 
 [[Page 1]]
 
@@ -3151,10 +3098,9 @@ taxes
 u mark
 
 ```
-## <a href="/handle/1911/75436">Letter from James Campbell to John Campbell</a>
+## [1852 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75436)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1852) Rice University: https://hdl.handle.net/1911/75436.
 
 [[Page 1]]
 
@@ -3275,7 +3221,7 @@ home with him and sold the land
 Different times from November to
 Christmas and I prevent the sale often
 but the sold it at last unknown to
-me at about 13├é┬ú and they devided the
+me at about 13┬ú and they devided the
 money between them [[crossed out]]
 [[crossed out]] the man that has the land
 is Edward Gallauger Andrew has his
@@ -3290,105 +3236,149 @@ buy india meal
 
 
 ```
-## <a href="/handle/1911/75440">Letter from James Campbell to John Campbell</a>
+## [1852 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75436)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1856) Rice University: https://hdl.handle.net/1911/75440.
 
 [[Page 1]]
 
-Drimcoe February 7th 1856
+Drimcoe June 21rst 1852
 
-Dr Brother I take this opportunity
-of writing those few lines to
-Find you and all Friend in that
-country in good health as
-leaves us all at present thank
+Dr Brother I take the opportunity
+of writing those few lines to you
+hoping to find you and all friends
+enjoying good health as this leaves
+us and all friends at present thank
 god for all his mercies to us
-Dr Brother I wrote 2 letters
-to texas in the beginning of
-June last one to you and one
-To Brother Peter and got no
-Answer since and I think it
-strange that you would not
-answer any letters and let
-me know how you are getting
-a long but I must think
-that you are got two rich
-to correspond with the poor
-of this country but if you
-do think it troublesome to
-answer my letters let me
-know and I will not trouble
+Dr Brother I received your long
+wished for letter a few Days ago
+which cost me many the uneasy
+mind not hearing from you sooner
+I have to inform you that the potatoe
+crop was as bad here last year as
+ever if not worse for at November
+last I had not over 2 barrels of
+potatoes in all my ground and the
+oats Done badley allso with me
+Dr Brother I have been badley treated
+by Brother Andrew after you left
+here he would not allow me to put
+one hoof on the grass the next Day
+not would he allow the man that
+was in the barn to give me one
+days work I did not argue with
+him about this I allowed He
+would pay the rent of it as he was
+taking the possesion so quick of it well
+at November would he pay on penny
 
 [[Page 2]]
 
-you with any more of them
-we have got some more
-potatoes in this country this
-year than what we had those
-years back and it is all wanted
-for markets was veary
-high india meal was 15 per cut
-oat meal 17s 6d potatoes 5d to 6d
-per stone and at seed time last
-year potatoes was from 10 to 1
-per stone the reason of meal
-being so high is this [[unclear]]
-war there is some rumour of
-peace those few weeks back
-and markets are looking down
-some think but then the poor
-is so much harassed with rent
-and all other taxes that the have
-no money if th would get it
-for one shilling per cut there
-is not one day but there is
-some bailiff at their door
-for some thing or other
+Dr Brother you wish to have brother
+Neals redness of here not one scrape
+of a pen from him since you left here
+and I wrote 2 letters to him since that
+and got no answer at that time he
+was in quebec in St Patrick Church
+you can let brother Peter know that
+I thought it strange that he did not
+write to me I could send him a
+long letter concerning how his property
+was handled I am going to give
+you a few out lines of it on the 20th
+of September last Andrew came
+and ordered me to go and hire men
+to cut down the oats I brought 4 men
+there He came himself and his son
+Dan friel and his wife and that was
+all the brought it was all cut that
+Day 122 stacks of excellent oats
+I allso sent men to saw it and it
+was brought to Dans friels garden
+it was computed that there was 9 1/2
+barrels of potatoes there when the
+were dug Andrew and Dan was taking
+sack of them During the winter
+when the spring of the year came on
+the 19th of March Andrew went there and
+sold some of them and brought a good
+many of them home with him Dan got
 
 [[Page 3]]
 
-Dr Brother we had a fine winter
-here this year untill the beginning
-of this month and it is veary
-stormy there was a great
-gale of wind on last night
-the hardest I found those
-10 years back and it appears
-to keep stormy I have to inform
-you that uncle Micheal
-of the Point is dead since June
-last Dr Brother I hope you
-will answer this as soon
-as it comes to hand and let
-know how you are geting
-long
+only His own half of it Mr risfield insisted
+that he should pay it as he was
+geting the land and he should not
+pay any of it for him Mr risfield
+then allowed me to pay it and to hold
+the land so I had to pay the rent and
+the next day he came with his fleting
+to live to the house for fear I should
+be holding it and he might not be
+afraid for I had no thoughts of holding
+it for I thought I was long enough
+in Partnership with him for he was
+still on for having the advantage
+of me allso I had to pay brother Pats rent
+and arrears of rent I had to sell the
+weighty end of my stock at a very
+low rate which if I had them
+a few months after I would yet
+Double the value for them and after
+all that he requested of Mr Risfield
+to take Pats part of the land from
+me and give it to him and the [[unclear]]
+sever Mr Risfield gave him that he
+would not for that he never would
+split that farm and I think that
+not all strange for he wrought
+about untill he got his poor brother
+inlaws land for nothing that is
+Connel [[Mudnays?]] so it is not
+easy giving him enough of land
 
-I have nomore to say but
-Mary & me & 2 Roseys joins
-in sending our love to you &
-misses Brother Peter & family
-B Patrick & family B thomas
-Catharine Connell & family
-I am your brother untill
-Death James Campbell
+[[Page 4]]
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+a few of them I Do not know what quantity
+but they had a great out cast about the
+Division of them Dan took them and
+he trashed the oats and sold it and
+put that in his pocket on known to him
+and Andrew was treatening to bring him
+to the bench for so doing when the letters
+came to hand and I hear nothing of it
+since and the would not give me one
+stone of either potatoes or oats for to
+help my seed where I had to go to the
+market to buy both nor even one
+stack of the straw for to thatch the
+Barrack of houses that was left to me
+you may let Peter know that Andrew
+pulled his bed steads and brougt them
+home with him and sold the land
+Different times from November to
+Christmas and I prevent the sale often
+but the sold it at last unknown to
+me at about 13┬ú and they devided the
+money between them [[crossed out]]
+[[crossed out]] the man that has the land
+is Edward Gallauger Andrew has his
+boat and he paid one half years rent and
+think the earned that at the fishery
+he can bring his cart of potatoes to
+Donegall every Saturday now and
+sell them now when I must go with
+my few poinds of butter for to
+buy india meal
 
-Mr John Campbell
-Seaguin Guadalupe
-County Texas
-U N States
-of America
+
 
 ```
-## <a href="/handle/1911/75439">Letter from James Campbell to John Campbell</a>
+## [1856 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75439)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1856) Rice University: https://hdl.handle.net/1911/75439.
 
-[[Page 1 ├ó┬Ç┬ô envelope]]
+[[Page 1 ΓÇô envelope]]
 
 John Campbell Esqr
 Seguin Guadalupe Co.
@@ -3396,7 +3386,7 @@ Texas
 U. States
 Of America
 
-[[marginalia ├ó┬Ç┬ô left]]
+[[marginalia ΓÇô left]]
 
 Seguin
 
@@ -3520,10 +3510,9 @@ brother James Campbell I hope
 you will answer this soon
 
 ```
-## <a href="/handle/1911/75437">Letter from James Campbell to John Campbell</a>
+## [1856 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75437)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1856) Rice University: https://hdl.handle.net/1911/75437.
 
 [[Page 1]]
 
@@ -3603,7 +3592,7 @@ Cosin Catharine Connell
 Promised to write to me and she
 forgot her contract
 
-[[Page 4 ├ó┬Ç┬ô envelope]]
+[[Page 4 ΓÇô envelope]]
 
 Mr John Campbell
 Seagwin Guadalupe
@@ -3614,12 +3603,11 @@ America
 
 
 ```
-## <a href="/handle/1911/75438">Letter from James Campbell to John Campbell</a>
+## [1856 - Letter from James Campbell to John Campbell](https://hdl.handle.net/1911/75438)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to John Campbell." (1856) Rice University: https://hdl.handle.net/1911/75438.
 
-[[Page 1 ├ó┬Ç┬ô envelope]]
+[[Page 1 ΓÇô envelope]]
 
 Mr John Campbell
 Seguin Guadalupe
@@ -3753,10 +3741,9 @@ do with the sale of the land I have
 nothing more to say at present
 but my Misses and me joins in sendi
 ```
-## <a href="/handle/1911/75441">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75441)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75441.
 
 [[Page 1]]
 
@@ -3794,10 +3781,9 @@ housband to dath
 James Campbell
 
 ```
-## <a href="/handle/1911/75442">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75442)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75442.
 
 [[Page 1]]
 
@@ -3884,10 +3870,9 @@ James Campbell
 blank
 
 ```
-## <a href="/handle/1911/75444">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75444)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75444.
 
 [[Page 1]]
 
@@ -3957,10 +3942,9 @@ James Campbell
 
 
 ```
-## <a href="/handle/1911/75443">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75443)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75443.
 
 [[Page 1]]
 
@@ -4027,10 +4011,9 @@ Campbell
 P.S tall Mrs Jaffries
 A
 ```
-## <a href="/handle/1911/75420">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75420)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75420.
 
 [[Page 1]]
 
@@ -4126,10 +4109,9 @@ husband to dath James Campbell
 
 
 ```
-## <a href="/handle/1911/75446">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75446)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75446.
 
 [[Page 1]]
 
@@ -4223,252 +4205,219 @@ two latters to one
 house all hands can
 reed this latter I must
 come to aclose so
- nomore from your
+nomore from your
 from your friend
 till dath
 James Campbell
 
 ```
-## <a href="/handle/1911/75445">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75446)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75445.
 
 [[Page 1]]
 
-Richmond vi August the [[unclear]] 1862
+Seguin Guad
+In Camp twinty milles
+from Richmod
 
-Dear martha I take my pen in
-hand to write you afew lines to
-hoping those
-few lines will find you and all
-friends injoing good halth as this leves
-me in at present thank god for his
-marcy to us all I recaved your kind
-and walkom latter on the first of
-this month which give me grait
-plasher to hear from you for the
-first time since I laft home
-I wish you wild write to me
-often for there is nothing that gives
-me more plasher then to hear from
-you and my sweet little baby
-for I thought I never wold hear from
-you till the war is over and
-it give me much truble to think
-that we ware so far apart and
-cannot hair from you nor any
-of our friends in that country
-do write to me as often as you
-
-[[Page 2]]
-
-can and lat me know
-how you and that seet little baby
-is doing I have rote alatter to
-you every week since I laft home
-and got but one from you tall
-uncle John to write to me for
-I wold like to hear from all my
-friends I want to hear from dugger
-and femly and tall him to write
-to me and lat me know how
-he is gating along and how the
-range is doing and tall Patrick
-and famly to write to me and
-lat me know how the are and
-give me the news of the sity
-for it is all the plasher I have
-is when I hear from you and my
-friends if you know whare
-Ellan is lat me now and how
-she is and how she is gating
-along for I wold like to hear
-from hir and Sary and tall
-[[Barry?]] to write to me and lat
-
-[[Page 3]]
-
-me know how he is gating long
-I have not much news of intrest
-to write about now for I have give
-you the acount of the griet
-battle of the chickahommy on
-the 27th of June we gaind griat
-victurey but with grait lose
-of life our ragmant want in
-to battle with 535 and out
-of that number thare was 300
-hundred kild and wunded in
-the 4th lost that number in
-taking abattary thair was three
-ragmants triad to take the
-same battary but faild in
-the atampe and then the 4th
-was ordered to charge to the battary
-and the don so and took the
-battry and agrate many prisners
-we whiped the anmy and
-parsuad tham to thair gun bots
-we got all their large guns
-and alarge amount amnshon
-
-[[Page 4]]
-
-and all the wagons and teem
-we ir looking for griat battle
-to cam of be teem Jackson and
-pope in in mastren wagins
-every day but our ragmant
-will not be in it we are
-in camp to rast now
-tall uncle John to write to me
-and lat me know how he and his new
-comer is gating along and what
-it is tall mother that I am amuch
-ablige to hir for the intrust
-in me and my sweet
-little baby and if I live to
-gat home I will return
-the faver in some way
-as to mony it is askese artickle
-hear eary thing is so hight that
-it taks all the little mony
-I can gat to do me tell Mrs Jaffries
-that Sud is well and Send his love and
-best restact in the kind maner so
-I must close so nomore from your
-friend till dath James Campbell
-
-```
-## <a href="/handle/1911/75447">Letter from James Campbell to Martha Campbell</a>
-
-```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75447.
-
-[[Page 1]]
-
-September warronton
-the 13th 1862
+August the 11 1862
 
 Dear martha I take the
-opertunity of writing those few lines
-hoping those few lines will find
-you and my sweet little
-boy in good halth as this laves
-me in at present thank
-good for his marcy to us all
-I wild have rote to you
-bafornow  but we ware
-on a march for a month in
-pursute of the yankies in
-this state and had to march
-day and night to over take
-them and to me got to
-mishan river and we had to
-waid it it was wast deep
-and than thare was one of the
-bigest riends you ever seen fall from
-that to night and stade under
-the enmy fier till with out
-one bite to eat next morning
-the opinad fier on us again
-we was in the forks of two
+opertunity of writing you
+few lines hoping those
+few lines in good halth
+is this laves me in
+at presant I have
+recaved your latter datad
+the 12 of July which
+give me grate plasher
+to hear that you and
+all friends was well
+I have not much
+news to send you
+But stone wall
+Jacknson is fighting now
+and whiping the anmy
+and taking prisoners
+on all sides
 
-[[Page 2]]
+[[page 2]]
 
-rivers and could not
-gat our wagons over to gat
-some thing to eat the second
-day the wagons got to us
-about nine oclock in the
-night and at the same
-time we got marching ordas
-we marched 35 ours without
-stoping but two ours in the
-time and with out anything
-to eat we cot up with a
-part of thair force at a gap in
-the mounens and kill a
-few of tham and the rast
-run away we capon after
-tham to we got to bulls
-run but in the manetime
-stone wall Jackson got in ahade
-of the yank forse and cut
-tham off from thair gunbots
-and the had to fight and
-the fight com of
-on the 29 and 30 of Augas
-we give the the best whiping
-that the ever had in their
-life the [[unclear]] that we
-kild and wounded 20
+we tnook six hundred
+and thirty offries and
+sant them to richmond
+in hand cuffs and if
+the dont mind
+the will find
+thamlfs in atite
+plase before the
+gat there with it
+congres has past
+abill to draft
+one milen of men
+and the yankes is
+runing to the
+south as fast as
+the can and I donot
+think the ware
+will last long and
+I think I will gat
+home by chrismess
+And spand
+aweek in plasher
+with you and
 
-[[Page 3]]
+[[page 3]]
 
-[[20?]] thouant of thair
-man and our lose was
-not more then one third
-that number and we
-took fifteen batrys basides
-small arms with out
-number and the best
-it all was ginral Jackson
-tilagrphed to washingtun
-that pope ahd whipped the
-rablas and was after
-tham and ahole lot of
-the big bugs come to
-see the fun and we took
-tham prisners on and
-marched tham in to port
-I want true the fight on
-hurt dud Jaffries wis shot
-in the calf of the lag but
-did not hurt the bone
-he is gating well very
-fast I will not order
-lake to give a list the
-kild and wunded for
-I hav not got time
-all of our force is in
-maryland now and
+my friends in
+that country times is
+hard hear for we have
+to pay three prices
+for every thing that
+we gat 50 dollers for
+apare of boots and
+a doller for quart
+of Irish potates and
+everything in proposh
+I ame gist off gard
+now and will lave
+now in few minets
+and do not know
+where we are going
+I must close
+will send you
+ten dollers in this
+latter with Mr. davis
+to gat what you
+want for you and
+my sweet little
+baby it taks all
 
 [[Page 4]]
 
-I will start
-to the ragemant in a
-few days I wrote to you
-by bob davis and sant
-you tan dollars in
-the latter I wold be
-glad of I could know that
-you are not in asuffran
-it taks all that I
-can gat to gat what I
-want I wish I was
-at home for I never know
-how to love home before
-if I live to I gat home
-and see you and my
-sweet little boy god bliss
-his sweet little sole
-I will be satifed to live
-on brad and watar the
-belns of my life
-give my love
-to all and aporchen
-to your salf so
+the I money that
+we can gat to by
+what we want
+I will not write
+to Cansedie
+for I do not think it [[missing]]
+any good to write
+two latters to one
+house all hands can
+reed this latter I must
+come to aclose so
 nomore from your
-loving husband to dath
+from your friend
+till dath
 James Campbell
 
 ```
-## <a href="/handle/1911/75448">Letter from James Campbell to his Uncle</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75446)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to his Uncle." (1862) Rice University: https://hdl.handle.net/1911/75448.
+
+[[Page 1]]
+
+Seguin Guad
+In Camp twinty milles
+from Richmod
+
+August the 11 1862
+
+Dear martha I take the
+opertunity of writing you
+few lines hoping those
+few lines in good halth
+is this laves me in
+at presant I have
+recaved your latter datad
+the 12 of July which
+give me grate plasher
+to hear that you and
+all friends was well
+I have not much
+news to send you
+But stone wall
+Jacknson is fighting now
+and whiping the anmy
+and taking prisoners
+on all sides
+
+[[page 2]]
+
+we tnook six hundred
+and thirty offries and
+sant them to richmond
+in hand cuffs and if
+the dont mind
+the will find
+thamlfs in atite
+plase before the
+gat there with it
+congres has past
+abill to draft
+one milen of men
+and the yankes is
+runing to the
+south as fast as
+the can and I donot
+think the ware
+will last long and
+I think I will gat
+home by chrismess
+And spand
+aweek in plasher
+with you and
+
+[[page 3]]
+
+my friends in
+that country times is
+hard hear for we have
+to pay three prices
+for every thing that
+we gat 50 dollers for
+apare of boots and
+a doller for quart
+of Irish potates and
+everything in proposh
+I ame gist off gard
+now and will lave
+now in few minets
+and do not know
+where we are going
+I must close
+will send you
+ten dollers in this
+latter with Mr. davis
+to gat what you
+want for you and
+my sweet little
+baby it taks all
+
+[[Page 4]]
+
+the I money that
+we can gat to by
+what we want
+I will not write
+to Cansedie
+for I do not think it [[missing]]
+any good to write
+two latters to one
+house all hands can
+reed this latter I must
+come to aclose so
+nomore from your
+from your friend
+till dath
+James Campbell
+
+```
+## [1862 - Letter from James Campbell to his Uncle](https://hdl.handle.net/1911/75448)
+
+```
 
 [[Page 1]]
 
@@ -4569,10 +4518,9 @@ but ramans your nefiew
 to dath James Campbell
 
 ```
-## <a href="/handle/1911/75449">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75449)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75449.
 
 [[Page 1]]
 
@@ -4690,10 +4638,9 @@ so nomor from you friend
 till dath James Campbell
 
 ```
-## <a href="/handle/1911/75450">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75450)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75450.
 
 [[Page 1]]
 
@@ -4813,10 +4760,9 @@ your friend till dath
 James Campbell
 
 ```
-## <a href="/handle/1911/75451">Letter from James Campbell to Martha Campbell</a>
+## [1862 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75451)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1862) Rice University: https://hdl.handle.net/1911/75451.
 
 [[Page 1]]
 
@@ -4926,14 +4872,13 @@ James
 Campbell
 
 ```
-## <a href="/handle/1911/75452">Letter from James Campbell to Martha Campbell</a>
+## [1863 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75452)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1863) Rice University: https://hdl.handle.net/1911/75452.
 
 [[Page 1]]
 
-[[Marginalia ├ó┬Ç┬ô left]]
+[[Marginalia ΓÇô left]]
 
 I must com to a
 close by sanding you
@@ -5065,10 +5010,9 @@ and then lat him kiss you for me also
 
 
 ```
-## <a href="/handle/1911/75453">Letter from James Campbell to Martha Campbell</a>
+## [1863 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75453)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1863) Rice University: https://hdl.handle.net/1911/75453.
 
 [[Page 1]]
 
@@ -5188,10 +5132,9 @@ I will send you
 alock of my hair
 
 ```
-## <a href="/handle/1911/75454">Letter from James Campbell to Martha Campbell</a>
+## [1863 - Letter from James Campbell to Martha Campbell](https://hdl.handle.net/1911/75454)
 
 ```
-├»┬╗┬┐Campbell, James. "Letter from James Campbell to Martha Campbell." (1863) Rice University: https://hdl.handle.net/1911/75454.
 
 [[Page 1]]
 
@@ -5296,6 +5239,7 @@ James Campbell
 
 ```
 
-## [John Campbell family farm record book - 1863](https://scholarship.rice.edu/handle/1911/27481)
+## [1863 - John Campbell family farm record book](https://scholarship.rice.edu/handle/1911/27481)
 
 There is no text content available for this item, but you can view a PDF using the link above.
+
